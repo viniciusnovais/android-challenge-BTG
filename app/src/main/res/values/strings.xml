@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="popular">Popular</string>
+    <string name="favorites">Favoritos</string>
+    <string name="error">Erro</string>
+    <string name="no_items">Não retornou filmes</string>
+    <string name="loading">Carregando...</string>
+</resources>
